@@ -36,3 +36,6 @@ then select install sugested plugin <br>
 
 make admin user <br>
 
+
+# you can use jenkins.sh to install automaticly 
+
